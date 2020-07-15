@@ -34,4 +34,4 @@ You can also use the [GitOps repo](https://github.com/ibm-icpa-coffeeshop/gitops
 
 # Acknowledgements
 
-Based on the [Quarkus Coffee Shop demo](https://github.com/cescoffier/quarkus-coffeeshop-demo/) by Clement Escoffier.
+Based on the [Quarkus Coffee Shop demo](https://github.com/cescoffier/quarkus-coffeeshop-demo/) by Clement Escoffier
